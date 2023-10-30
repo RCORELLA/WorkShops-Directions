@@ -14,90 +14,70 @@ Requirements
 We will use Power Apps and Power Automate
 
 1. **Open the Business Central Sandbox**
-1. Open your browser in private mode.
-1. Go to this web to open Business Central
-   1. https://businesscentral.dynamics.com/
-1. Press to Sign in and introduce the provided email and press Next:
+1.1 Open your browser in private mode.
+1.2 Go to this website to open Business Central
+       https://businesscentral.dynamics.com/
+1.3 Press to Sign in and introduce the provided email and press Next:
 
-![Interfaz de usuario gráfica, Texto, Aplicación
+![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.002.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.002.png)
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.003.png)
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
-
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.003.png)
-
-1. aprendebc03@M365B855867.onmicrosoft.com
+ aprendebc03@M365B855867.onmicrosoft.com
 
 Introduce the provided password:  DirectionsEMEA2023
 
-And press Sign In
+Press Sign In
 
-1. Press Yes when it asks you “Stay signed in?”
-1. Business Central Will open.  Enter the CRONUS USA Company in Sandbox Canvas.
+Press Yes when it asks you “Stay signed in?”
+Business Central Will open.  Enter the CRONUS USA Company in Sandbox Canvas.
 
-![Interfaz de usuario gráfica, Sitio web
+![Interfaz de usuario gráfica, Sitio web Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.004.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.004.png)
-
-1. **Open the Power Apps**
+**Open the Power Apps**
    1. Press into the App Launcher a search for Power Apps (press “all apps” if you need)
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.005.png)
 
-1. Press and the Power Apps will open.
+Press and the Power Apps will open.
 
-![Interfaz de usuario gráfica, Texto, Aplicación
+![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.006.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.006.png)
+**My First App**
 
-1. **My First App**
-
-1. Create a Solution pressing “+ New Solution”
+1. Create a Solution by pressing “+ New Solution”
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.007.png)
 
-1. **Display Name:** Directions XX (where XX will be your initials)
-1. **Publisher.**  Create a new one
+**Display Name:** Directions XX (where XX will be your initials)
+**Publisher.**  Create a new one
 
-![Tabla
+![Tabla Descripción generada automáticamente con confianza media](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.008.png)
 
-Descripción generada automáticamente con confianza media](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.008.png)
-
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.009.png)
+![Interfaz de usuario gráfica, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.009.png)
 
 **Remember the field Name cannot have spaces**
 
 **As Prefix, you put your Initials (3 letters) and press Save.**
 
-1. **Choose just create Publisher and press Create**
+**Choose just Create Publisher and press Create**
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.010.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.010.png)
+**Now you have your Solution**
 
-1. **Now you have your Solution**
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.011.png)
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
+**Create your App pressing ‘+ New’ -> App -> Canvas App**
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.011.png)
+![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.012.png)
 
-1. **Create your App pressing ‘+ New’ -> App -> Canvas App**
+**App Name:  “**Directions Salespeople XX”  (where XX will be your initials)
+**Select format Tablet and press Create**
 
-![Interfaz de usuario gráfica, Aplicación, Teams
+![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.013.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.012.png)
-
-1. **App Name:  “**Directions Salespeople XX”  (where XX will be your initials)
-1. **Select format Tablet and press Create**
-
-![Interfaz de usuario gráfica, Aplicación, Teams
-
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.013.png)
-
-1. **Insert on the screen these controls**
+**Insert these on the screen these controls**
    1. **Label**
       1. Font Size: 16
       1. Text Alignment: Right
@@ -122,19 +102,13 @@ Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f7
    1. Download an image
    1. Background image: + Add an image
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.014.png)
+![Interfaz de usuario gráfica Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.014.png)
 
 1. **Duplicate ScreenPral and rename the new one as ScreenMain**
 
-![Interfaz de usuario gráfica, Aplicación, Teams
+![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.015.png)
 
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.015.png)
-
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.016.png)
+![Interfaz de usuario gráfica, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.016.png)
 
 1. **Connect with the Business Central API**
    1. Go to Data
