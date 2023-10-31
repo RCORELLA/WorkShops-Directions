@@ -75,13 +75,14 @@ We will use Power Apps and Power Automate
 
 ![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.012.png)
 
-3.7 ** App Name: ** Directions Salespeople XX”  (where XX will be your initials)
+3.7 **App Name:** Directions Salespeople XX”  (where XX will be your initials)
 
 3.8 **Select format Tablet and press Create**
 
 ![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.013.png)
 
 3.9 **Insert these on the screen these controls**
+
    3.9.1. Label
    
       3.9.1.1 Font Size: 16
