@@ -83,26 +83,35 @@ We will use Power Apps and Power Automate
 
 3.9 **Insert these on the screen these controls**
    3.9.1. Label
+   
       3.9.1.1 Font Size: 16
       3.9.1.2 Text Alignment: Right
       3.9.1.3 Position: x 1028, y 37
       3.9.1.4 Color Font: White
       3.9.1.5 Name: Label User
       3.9.1.6 Text: User().FullName
+      
    3.9.2 Rectangle
+   
       3.9.2.1 Position: 0, 0
       3.9.2.2 Size: 1366, 120
       3.9.2.3 Color: "#008089"
+      
    3.9.3 Label
+   
       3.9.3.1 Text: SalesPeople Directions
       3.9.3.2 Font Size: 25
       3.9.3.3 Text Alignment: Center
       3.9.3.4 Position: 380, 23
+      
    3.9.4 Button
+   
       3.9.4.1 Text: Enter
       3.9.4.2 Color font: White
       3.9.4.3 Color Fill: "#008089"
+      
 3.10 **Rename Screen Name to ScreenPral**
+
    3.10.1 Download an image
    3.10.2 Background image: + Add an image
 
