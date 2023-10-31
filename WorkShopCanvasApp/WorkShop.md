@@ -37,7 +37,7 @@ We will use Power Apps and Power Automate
 
 ![Interfaz de usuario gráfica, Sitio web Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.004.png)
 
-** 2 Open the Power Apps Studio**
+**2 Open the Power Apps Studio**
    2.1 Press into the App Launcher a search for Power Apps (press “all apps” if you need)
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.005.png)
@@ -46,7 +46,7 @@ We will use Power Apps and Power Automate
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.006.png)
 
-** 3 Create my First App**
+**3 Create my First App**
 
 3.1 Create a Solution by pressing “+ New Solution”
 
