@@ -114,6 +114,7 @@ We will use Power Apps and Power Automate
 3.10 **Rename Screen Name to ScreenPral**
 
    3.10.1 Download an image
+   
    3.10.2 Background image: + Add an image
 
 ![Interfaz de usuario gráfica Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.014.png)
@@ -125,10 +126,15 @@ We will use Power Apps and Power Automate
 ![Interfaz de usuario gráfica, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.016.png)
 
 4 **Connect with the Business Central API**
+
    4.1 Go to Data
+   
    4.2 Add data
+   
    4.3 Search Business Central
+   
    4.4 Select Company Production – CRONUS USA
+   
    4.5 Select Customer, Sales Quotes, Sales Quote Lines, and items.
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.017.png)
@@ -136,14 +142,17 @@ We will use Power Apps and Power Automate
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.018.png)
 
 5 **Adding Data Controls**
+
    5.1 Go to the ScreenMain
-   5.2 Insert this controls:
+   
+   5.2 Insert these controls:
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.019.png)
 
 The labels and buttons you can create them in the same way as before
 
    5.3 Insert a Drop-Down with the next properties:
+   
     5.3.1 Items:  customers (v2.0)
     5.3.2 Value: (value to show) Display Name
     5.3.3 Position 52, 187
@@ -151,14 +160,17 @@ The labels and buttons you can create them in the same way as before
     5.3.5 Chevron color: "#008089"
 
    5.4 Insert a Data Picker
+   
      5.4.1 Position 52, 295
      5.4.2 Size: 328, 40
 	 
    5.5 Insert an Image Control
+   
      5.5.1 Position 47, 461
      5.5.2 Size 333, 183
 	 
    5.6 Insert a Vertical Gallery
+   
      5.6.1 Data Source: Items
      5.6.2 Position: 422, 179
      5.6.3 Size: 403, 544
@@ -202,23 +214,31 @@ The labels and buttons you can create them in the same way as before
     5.8 Save and Play the App.
 
 6. **Adding navigation to our App**
+   
    6.1. On ScreenPral, choose “ButtonAccess”
+   
    6.2 Select “OnSelect”.  OnSelect is the event that occurs when you press the button.
+   
    6.3 On the fx bar insert:  *Navigate(ScreenMain)*
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.021.png)
 
    6.4 On the ScreenMain, choose “ButtonBack”
+   
    6.5 Select “OnSelect”
+   
    6.6 On the Fx bar fill in: *Back()* 
+   
    6.7 Save and Play the App.
 
 7. **Creating a Quotation Collection**
+   
    7.1 **Code for OnVisible on ScreenMain**
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.022.png)
 
    7.2. **Code for Icon + Add**
+   
 	7.2.1 **DisplayMode:**
       *If(Value(TextInputQuantity.Text)>0,DisplayMode.Edit,DisplayMode.Disabled)*
 	  
