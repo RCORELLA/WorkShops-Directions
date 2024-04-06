@@ -1,4 +1,4 @@
-﻿|![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.001.jpeg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella & Javier Armesto</p><p></p><p>November 2023</p><p>Directions EMEA Lyon</p>|
+﻿|![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.001.jpeg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>April 2024</p><p>Days of Knowledge</p>|
 | :- | :-: | :- |
 
 Scenario
@@ -52,7 +52,7 @@ We will use Power Apps and Power Automate
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.007.png)
 
-3.2 **Display Name:** Directions XX (where XX will be your initials)
+3.2 **Display Name:** DoK XX (where XX will be your initials)
 3.3 **Publisher.**  Create a new one
 
 ![Tabla Descripción generada automáticamente con confianza media](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.008.png)
@@ -75,7 +75,7 @@ We will use Power Apps and Power Automate
 
 ![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.012.png)
 
-3.7 **App Name:** Directions Salespeople XX”  (where XX will be your initials)
+3.7 **App Name:** DoK Salespeople XX”  (where XX will be your initials)
 
 3.8 **Select format Tablet and press Create**
 
@@ -100,7 +100,7 @@ We will use Power Apps and Power Automate
       
    3.9.3 Label
    
-      3.9.3.1 Text: SalesPeople Directions
+      3.9.3.1 Text: SalesPeople DoK Nordic
       3.9.3.2 Font Size: 25
       3.9.3.3 Text Alignment: Center
       3.9.3.4 Position: 380, 23
