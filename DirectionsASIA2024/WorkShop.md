@@ -1,4 +1,4 @@
-﻿|![](/Resources/DirectionsAsia.jpg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>Bangkok 2024</p><p>Directions ASIA 2024</p>|
+﻿|![](/DirectionsASIA2024/Resources/DirectionsAsia.jpg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>Bangkok 2024</p><p>Directions ASIA 2024</p>|
 | :- | :-: | :- |
 
 Scenario
@@ -14,14 +14,18 @@ Requirements
 We will use Power Apps and Power Automate
 
 1. **Open the Business Central Sandbox**
+   
 1.1 Open your browser in private mode.
+
 1.2 Go to this website to open Business Central
+
       https://businesscentral.dynamics.com/ea4a9a2b-2e7a-4e7f-ba88-5a6590ed397a/DirectionsAsia2024
+
 1.3 Press to Sign in and introduce the provided email and press Next:
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.002.png)
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.003.png)
+![Access](/DirectionsASIA2024/Resources/sign.jpg)
 
 1.4
  
@@ -38,7 +42,8 @@ We will use Power Apps and Power Automate
 ![Interfaz de usuario gráfica, Sitio web Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.004.png)
 
 **2 Open the Power Apps Studio**
-   2.1 Press into the App Launcher a search for Power Apps (press “all apps” if you need) or enter directly this address)
+   2.1 Press into the App Launcher to search for Power Apps (press “all apps” if you need) or enter this address directly)
+   
    https://make.powerapps.com/environments/Default-ea4a9a2b-2e7a-4e7f-ba88-5a6590ed397a/home
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.005.png)
@@ -54,6 +59,7 @@ We will use Power Apps and Power Automate
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.007.png)
 
 3.2 **Display Name:** DirectionsAsia_XX (where XX will be your initials)
+
 3.3 **Publisher.**  Create a new one
 
 ![Tabla Descripción generada automáticamente con confianza media](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.008.png)
@@ -76,7 +82,7 @@ We will use Power Apps and Power Automate
 
 ![Interfaz de usuario gráfica, Aplicación, Teams Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.012.png)
 
-3.7 **App Name:** Bangkok Salespeople XX”  (where XX will be your initials)
+3.7 **App Name:** Directions Salespeople XX”  (where XX will be your initials)
 
 3.8 **Select format Tablet and press Create**
 
@@ -101,7 +107,7 @@ We will use Power Apps and Power Automate
       
    3.9.3 Label
    
-      3.9.3.1 Text: SalesPeople DoK Nordic
+      3.9.3.1 Text: SalesPeople Directions ASIA
       3.9.3.2 Font Size: 25
       3.9.3.3 Text Alignment: Center
       3.9.3.4 Position: 380, 23
@@ -240,18 +246,19 @@ The labels and buttons you can create them in the same way as before
 
    7.2. **Code for Icon + Add**
    
-	7.2.1 **DisplayMode:**
-      *If(Value(TextInputQuantity.Text)>0,DisplayMode.Edit,DisplayMode.Disabled)*
+	7.2.1 DisplayMode:
+ 
+      If(Value(TextInputQuantity.Text)>0,DisplayMode.Edit,DisplayMode.Disabled)
 	  
-    7.2.2 **OnSelect:**
+    7.2.2 OnSelect:
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.023.png)
 
-    7.2.3 **Code for Icon Trush**
+    7.2.3 Code for Icon Trush
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.024.png)
 
-    7.2.4 **Code for label TotalAmount**
+    7.2.4 Code for label TotalAmount
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.025.png)
 
@@ -259,11 +266,11 @@ The labels and buttons you can create them in the same way as before
 
    8.1 **Code for Create Quote Button**
       
-	  8.1.1 **DisplayMode**
+	  8.1.1 DisplayMode
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.026.png)
 
-      8.1.2 **OnSelect**
+      8.1.2 OnSelect
 
 ![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.027.png)
 
