@@ -1,4 +1,4 @@
-﻿|![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.001.jpeg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>Bangkok 2024</p><p>Directions ASIA 2024</p>|
+﻿|![](/Resources/DirectionsAsia.jpg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>Bangkok 2024</p><p>Directions ASIA 2024</p>|
 | :- | :-: | :- |
 
 Scenario
