@@ -14,22 +14,28 @@ Requirements
 We will use Power Apps and Power Automate
 
 1. **Open the Business Central Sandbox**
+   
 1.1 Open your browser in private mode.
+   
 1.2 Go to this website to open Business Central
+
        https://businesscentral.dynamics.com/
+       
 1.3 Press to Sign in and introduce the provided email and press Next:
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.002.png)
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.003.png)
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico Descripción generada automáticamente](acceso.png)
 
-1.4
+1.4 Introduce your credentials:
  
  DoKCentral01@M365B855867.onmicrosoft.com
 
  Introduce the provided password:  DoKCentral2024
 
  Press Sign In
+
+ (Two-factor authentication)
 
 1.5 Press Yes when it asks you “Stay signed in?”
 
