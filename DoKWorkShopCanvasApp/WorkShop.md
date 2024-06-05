@@ -1,9 +1,9 @@
-﻿|![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.001.jpeg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>April 2024</p><p>Days of Knowledge</p>|
+﻿|![](Aspose.Words.838426bd-5542-4e6f-bd76-8f73fdee32d6.001.jpeg)|<p>**WorkShop**</p><p></p><p>Create your first Canvas PowerApp with Business Central from scratch</p>|<p></p><p>Roberto Corella </p><p></p><p>June 2024</p><p>Days of Knowledge</p>|
 | :- | :-: | :- |
 
 Scenario
 
-Our company is working with Business Central and needs the Salespeople can have information about customers when they are out of the office.   
+Our company is working with Business Central and needs the Salespeople to have information about customers when they are out of the office.   
 
 Requirements
 
@@ -25,9 +25,9 @@ We will use Power Apps and Power Automate
 
 1.4
  
- aprendebc03@M365B855867.onmicrosoft.com
+ DoKCentral01@M365B855867.onmicrosoft.com
 
- Introduce the provided password:  DirectionsEMEA2023
+ Introduce the provided password:  DoKCentral2024
 
  Press Sign In
 
