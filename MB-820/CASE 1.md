@@ -10,11 +10,9 @@ To start the case study -
 
 To display the first question in this case study, click the Next button. Use the buttons in the left pane to explore the content of the case study before you answer the questions. Clicking these buttons displays information such as business requirements, existing environment, and problem statements. If the case study has an All Information tab, note that the information displayed is identical to the information displayed on the subsequent tabs. When you are ready to answer a question, click the Question button to return to the question.
 
-Company Background -
+**Company Background**
 
-Alpine Ski House is a company that owns and operates hotels, restaurants, and stores.
-
-Currently, the company uses the following software and interface:
+Alpine Ski House is a company that owns and operates hotels, restaurants, and stores. Currently, the company uses the following software and interface:
 
 Property management software (PMS) to manage hotel rooms
 
@@ -22,11 +20,11 @@ On-premises accounting software to generate sales invoices and create purchase o
 
 An API that allows restaurants and stores to obtain necessary information
 
-Restaurants and stores use standalone software for point of sale (POS) devices. Each day, the POS terminals generate a text file of sales data and save the files in a server folder. An account assistant must manually import the files to the current software tables to be processed by the system.
+Restaurants and stores use standalone software for point-of-sale (POS) devices. Each day, the POS terminals generate a text file of sales data and save the files in a server folder. An account assistant must manually import the files to the current software tables to be processed by the system.
 
 The general manager receives several reports monthly from department managers. The reports take too much time to prepare.
 
-Planned improvements -
+**Planned improvements**
 
 The company is moving from a different system to Business Central online to manage the whole company.
 
@@ -34,19 +32,21 @@ The company plans to increase efficiency in every department by using APIs to ob
 
 Each department involved in purchasing must be able to make purchase requests automatically and easily. The departments do not need access to the full ERP management system.
 
-Technical specifications -
+**Technical specifications**
 
 Alpine Ski House requires the development of several extensions for the planned improvements. Business Central design patterns must be used to develop all extensions.
 
 Alpine Ski House must develop the following pages:
 
-Pages that provide multiple configurations in a multistep dialog, like a wizard, to provide required information when the extensions are first installed
+- Pages that provide multiple configurations in a multistep dialog, like a wizard, to provide the required information when the extensions are first installed
 
-Department-specific Role Center pages to show relevant information and pages with additional information
+- Department-specific Role Center pages to show relevant information and pages with additional information
 
 The IT department plans to use Power BI to analyze departmental information. The database must be configured to provide optimal performance.
 
-Department-specific requirements. Housekeeping department
+Department-specific requirements. 
+
+**Housekeeping department**
 
 The housekeeping department requires the following to increase efficiency and help avoid data entry errors:
 
@@ -62,7 +62,7 @@ The department requires the development of an extension with a new API page name
 
 The housekeeping team will use RoomsAPI to publish room details, update when work is complete, or provide repair notifications from the canvas app.
 
-This custom API page must expose a custom table named Rooms and have an ID 50000. The table must be able to update from the PMS. The PMS team must know the endpoint to connect to the custom API.
+This custom API page must expose a custom table named Rooms and have an ID 50000. The table must be able to be updated from the PMS. The PMS team must know the endpoint to connect to the custom API.
 
 A developer provides the following details for the API page:
 
@@ -88,15 +88,15 @@ Incident Date: The work date -
 
 The table definition in the Room Incident table must autofill the Incident Date when the housekeeping team inserts a new record,
 
-The value for Incident Date must be the work date configured in the Business Central online client.
+The value for the Incident Date must be the work date configured in the Business Central online client.
 
 Status: Includes the following options to identify the status of the incident:
 
-Open: When the Room Incident is created
+  **Open**: When the Room Incident is created
 
-In Progress: When someone starts repair work
+  **In Progress**: When someone starts repair work
 
-Closed: When the incident is solved
+  **Closed**: When the incident is solved
 
 Incident Closing Date: Auto-updating field (when the status passes to Closed, the field will update with the work date)
 
@@ -142,7 +142,7 @@ Non-conformity Number: must use the No. Series table from Business Central onlin
 
 Alphanumeric values -
 
-Number format that includes âNCâ and the year as part of the number; for example, NC24-001
+Number format that includes **NC** and the year as part of the number; for example, NC24-001
 
 Non-conformity Date: stores only the creation date
 
