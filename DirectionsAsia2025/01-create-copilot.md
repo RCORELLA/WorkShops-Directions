@@ -209,14 +209,3 @@ Now that you have a working agent, you can publish it for people to use. The ava
 1. Enter the message `What are the expense limits for meals?` and view the response.
 1. Try a few more questions and view the responses from your agent. It will have limited functionality, but should be able to provide relevant answers to questions about expense claims.
 
-## Challenge
-
-Now that you’ve seen how to use Copilot Studio to create a simple agent, it’s
-time to apply what you’ve learned on your own. Try creating an agent that provides answers to questions about Microsoft Copilot!
-
-- Create a new agent.
-- Use the `https://www.microsoft.com/en-us/microsoft-copilot/` website as a knowledge source.
-- Do not include lesson topics.
-- Publish the agent so that users can test it in a demo website.
-
-> **Tip**: If you need help, consult the [Copilot Studio documentation](https://learn.microsoft.com/microsoft-copilot-studio/) at `https://learn.microsoft.com/microsoft-copilot-studio/`.
