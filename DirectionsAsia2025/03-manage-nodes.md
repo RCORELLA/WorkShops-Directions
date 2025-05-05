@@ -49,7 +49,7 @@ Variables can be accessed by other topics.
 
 1. Select the right-hand check boxes for the three topic variables.
 
-    ![Screenshot of the variables pane.](../media/variables-pane.png)
+    ![Screenshot of the variables pane.](media/variables-pane.png)
 
 1. Select **Save**.
 
@@ -65,7 +65,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Select the the **+** icon under the Trigger node and select **Send a message**.
 
-    ![Screenshot of adding a node.](../media/add-node.png)
+    ![Screenshot of adding a node.](media/add-node.png)
 
 1. In the **Enter a message** field, enter the following text:
 
@@ -77,7 +77,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Select the the **+** icon under the **Message** node, **Topic management**, then **Go to another topic**, then select **Customer Details**.
 
-    ![Screenshot of adding a topic management node.](../media/topic-management-node.png)
+    ![Screenshot of adding a topic management node.](media/topic-management-node.png)
 
 1. Select **Save**.
 
@@ -91,7 +91,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Select **Yes**.
 
-    ![Screenshot of adding a condition node.](../media/condition-node.png)
+    ![Screenshot of adding a condition node.](media/condition-node.png)
 
 1. Select **Save**.
 
@@ -107,7 +107,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Select the variable in **Save user response as** and enter **`PropertyName`** for **Variable name**.
 
-    ![Screenshot of adding a question node.](../media/question-node-2.png)
+    ![Screenshot of adding a question node.](media/question-node-2.png)
 
 1. Select **Save**.
 
@@ -131,7 +131,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. If it's not enabled, enable **Track between topics**.
 
-    ![Screenshot of the Testing panel options.](../media/test-pane-options.png)
+    ![Screenshot of the Testing panel options.](media/test-pane-options.png)
 
 1. Select the **Start a new conversation** icon at the top of the testing panel.
 
@@ -141,7 +141,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. The copilot responds with the "What is your name?" question, as shown in the following image.
 
-    ![Screenshot of the Conversation Start message and response.](../media/conversation-start-message.png)
+    ![Screenshot of the Conversation Start message and response.](media/conversation-start-message.png)
 
 1. Enter the following information:
 
@@ -156,7 +156,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Enter `Tomorrow 10:00 AM` to the **What date and time do you want to see the property?** prompt.
 
-    ![Screenshot of the Adaptive Card with the information entered.](../media/adaptive-card-information.png)
+    ![Screenshot of the Adaptive Card with the information entered.](media/adaptive-card-information.png)
 
 ## Exercise 3 - Deploy copilot
 
@@ -168,7 +168,7 @@ The conversational flow in a topics can be created manually by adding nodes.
 
 1. Select the **Authentication** tile.
 
-    ![Screenshot of the authentication settings.](../media/configure-authentication.png)
+    ![Screenshot of the authentication settings.](media/configure-authentication.png)
 
 1. Select **No authentication**.
 
