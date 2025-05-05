@@ -79,11 +79,11 @@ In this exercise, you will create topics in a copilot and add trigger phrases.
 
 1. If the **Edit with CoPilot** pane is not shown on the right side of the **Customer Details** pane, select the **Copilot** icon in the upper part of the authoring canvas.
 
-    ![Screenshot of the Edit with Copilot icon.](../media/edit-with-copilot.png)
+    ![Screenshot of the Edit with Copilot icon.](media/edit-with-copilot.png)
 
 1. Select the second **Question** node, **What is your email address?**
 
-    ![Screenshot of the Edit with Copilot icon.](../media/copilot-email-address-node.png)
+    ![Screenshot of the Edit with Copilot icon.](media/copilot-email-address-node.png)
 
 1. In the **Edit with Copilot** panel, in the **What do you want to do?** field, enter the following text:
 
@@ -91,9 +91,9 @@ In this exercise, you will create topics in a copilot and add trigger phrases.
 
 1. Select **Update**.
 
-    ![Screenshot of the Edit with Copilot panel with prompt.](../media/edit-with-copilot-panel.png)
+    ![Screenshot of the Edit with Copilot panel with prompt.](media/edit-with-copilot-panel.png)
 
-    ![Screenshot of the message updated to include the Name variable.](../media/message-updated-name-variable.png)
+    ![Screenshot of the message updated to include the Name variable.](media/message-updated-name-variable.png)
 
     > **Note**: The message should be updated to include the *Name* variable from the prior node, and should look similar to the screenshot above.
 
@@ -113,11 +113,11 @@ In addition to adding updating existing nodes, you can use Copilot to add new on
 
 1. A message node with an Adaptive Card is added to the end of the topic.
 
-    ![Screenshot of the message node with an Adaptive Card.](../media/message-node-adaptive-card.png)
+    ![Screenshot of the message node with an Adaptive Card.](media/message-node-adaptive-card.png)
 
 1. Select the **Media** box in the Adaptive Card. The Adaptive Card properties should appear on the right of the screen.
 
-    ![Screenshot of the Adaptive Card properties.](../media/adaptive-card-properties.png)
+    ![Screenshot of the Adaptive Card properties.](media/adaptive-card-properties.png)
 
    Your Adaptive Card formula should look similar to the one above. If it doesn't, then you can paste in the formula below:
 
@@ -166,7 +166,7 @@ In addition to adding updating existing nodes, you can use Copilot to add new on
 
 1. A new question node is added to the end of the topic with options for the user to select.
 
-    ![Screenshot of the new question node with yes and no options.](../media/new-question-node.png)
+    ![Screenshot of the new question node with yes and no options.](media/new-question-node.png)
 
 1. Select **Save**.
 
@@ -194,7 +194,7 @@ Topics can be created manually by adding trigger phrases.
 
 1. Select the **Details** icon to open the Topic details dialog.
 
-    ![Screenshot of the topic details dialog ](../media/topic-details.png)
+    ![Screenshot of the topic details dialog ](media/topic-details.png)
 
 1. In the **Name** field, enter the following text:
 
@@ -214,7 +214,7 @@ Topics can be created manually by adding trigger phrases.
 
 1. Select **Edit** under **Phrases** in the **Trigger**.
 
-    ![Screenshot of the topic trigger phrases pane.](../media/topic-trigger-phrases.png)
+    ![Screenshot of the topic trigger phrases pane.](media/topic-trigger-phrases.png)
 
 1. Enter `I want to book a real estate showing` under **Add Phrases** and select the **+** icon.
 
